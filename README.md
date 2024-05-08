@@ -4,7 +4,7 @@
 
 ## Student Team
 
-All teams: [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9UkuLmMPGsnRVIBShwj0DTkEpT8TB5k3OsYk/edit?usp=sharing)
+All teams: **TODO** <!-- [📝 google sheet](https://docs.google.com/spreadsheets/d/1-o4YxKb9UkuLmMPGsnRVIBShwj0DTkEpT8TB5k3OsYk/edit?usp=sharing) -->
 
 Your team: group number ❔
 
