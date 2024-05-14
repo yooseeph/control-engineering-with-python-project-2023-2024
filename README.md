@@ -33,15 +33,15 @@ Your team: group number ❔
        ⚠️ **Only one student needs to do this in each group.**
 
   2. **👥 Register collaborators.**  
-    
+
+       - Fill the "Student Team" section of this README.
+
        - Invite all students in the group as collaborators in your project (Collaborators).
-      
-       - Fill the "Student Team" section.
 
        - Invite [@boisgera](https://github.com/boisgera), 
-        [@c-joly](https://github.com/c-joly) and [@JAuriol81](https://github.com/JAuriol81). 
+        [@c-joly](https://github.com/c-joly) and [@JAuriol81](https://github.com/JAuriol81) as collaborators. 
 
-  3. **📔 Hack the notebook!**  
+  2. **📔 Hack the notebook!**  
      
      - Download the project files (Code / Download ZIP) 
      
