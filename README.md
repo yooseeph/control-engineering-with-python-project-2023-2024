@@ -2,6 +2,11 @@
 
 [:house: Course repository](https://github.com/boisgera/control-engineering-with-python)
 
+
+## :speech_balloon: Chat room
+
+- :speech_balloon: [Join the chat room](https://matrix.to/#/#emines-autom-2023-2024:matrix.org) (Discord)
+
 ## Student Team
 
 Teams progress: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bIvdzbg5PDoQSr7ugv32wQtcKUiNaBiPt2RSzHwNRtA/edit?usp=sharing)
