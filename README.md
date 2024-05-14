@@ -5,7 +5,7 @@
 
 ## :speech_balloon: Chat room
 
-- :speech_balloon: [Join the chat room](https://matrix.to/#/#emines-autom-2023-2024:matrix.org) (Discord)
+- :speech_balloon: [Join the chat room](https://discord.gg/4dBDfXA2) (Discord)
 
 ## Student Team
 
