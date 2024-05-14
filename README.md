@@ -26,7 +26,7 @@ Your team: group number ❔
      
      - [Create a GitHub account](https://github.com/join) if necessary.
 
-  1. **🎉 Create your own version project.**  
+  1. **🎉 Create your own version of the project.**  
      
      - Use this project as a starting point: 
        click the Fork button to create your own project instance.  
