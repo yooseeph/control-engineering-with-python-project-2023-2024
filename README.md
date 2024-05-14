@@ -25,11 +25,8 @@ Your team: group number ❔
   0. **:octocat: Sign into GitHub.**   
      
      - [Create a GitHub account](https://github.com/join) if necessary.
-     
-     - Join the [project chat](https://gitter.im/control-engineering-with-python/community?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-     (sign in with your GitHub account).
 
-  1. **🎉 Create your own project.**  
+  1. **🎉 Create your own version project.**  
      
      - Use this project as a starting point: 
        click the Fork button to create your own project instance.  
