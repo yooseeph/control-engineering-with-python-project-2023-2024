@@ -2,11 +2,6 @@
 
 [:house: Course repository](https://github.com/boisgera/control-engineering-with-python)
 
-
-## :speech_balloon: Chat room
-
-- :speech_balloon: [Join the chat room](https://discord.gg/4dBDfXA2) (Discord)
-
 ## Student Team
 
 Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bIvdzbg5PDoQSr7ugv32wQtcKUiNaBiPt2RSzHwNRtA/edit?usp=sharing)
@@ -22,6 +17,10 @@ Your team: group number ❔
   - Student 4: ❔ (given name + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
 
 ## Getting Started
+
+  0. **:speech_balloon: Join the chat room (Discord).**
+    
+     - [Chat room invite](https://discord.gg/4dBDfXA2) 
 
   0. **:octocat: Sign into GitHub.**   
      
