@@ -8,7 +8,7 @@ Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bI
 
 Your team: group 5 
 
-  - Student 1:  HAMDANI Naoufal - 'NaoufalHAMDANI'
+  - Student 1:  HAMDANI Naoufal - @NaoufalHAMDANI
 
   - Student 2: ❔ BOUHMID Mohamed - 'Mohamed-BOUHMID'
     
