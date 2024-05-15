@@ -6,15 +6,15 @@
 
 Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bIvdzbg5PDoQSr7ugv32wQtcKUiNaBiPt2RSzHwNRtA/edit?usp=sharing)
 
-Your team: group number ❔
+Your team: group 5 
 
-  - Student 1: ❔ HAMDANI Naoufal
+  - Student 1:  HAMDANI Naoufal - 'NaoufalHAMDANI'
 
-  - Student 2: ❔ BOUHMID Mohamed
+  - Student 2: ❔ BOUHMID Mohamed - 'Mohamed-BOUHMID'
     
-  - Student 3: ❔ BOUHRIRA Youssef 
+  - Student 3: ❔ BOUHRIRA Youssef - 'YoussefBOUHRIRA'
 
-  - Student 4: ❔ ELYAMANI Youssef
+  - Student 4: ❔ ELYAMANI Youssef - 'yooseeph'
 
 ## Getting Started
 
