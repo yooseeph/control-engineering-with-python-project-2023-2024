@@ -8,11 +8,11 @@ Teams dashboards: [📝 google sheet](https://docs.google.com/spreadsheets/d/1bI
 
 Your team: group number ❔
 
-  - Student 1: ❔ HAMDANI Naoufal `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 1: ❔ HAMDANI Naoufal
 
-  - Student 2: ❔ BOUHMID Mohamed  + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
-  
-  - Student 3: ❔ BOUHRIRA Youssef + first name + `github user name`, for example Sébastien Boisgérault `boisgera`)
+  - Student 2: ❔ BOUHMID Mohamed
+    
+  - Student 3: ❔ BOUHRIRA Youssef 
 
   - Student 4: ❔ ELYAMANI Youssef
 
